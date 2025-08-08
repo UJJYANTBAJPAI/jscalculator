@@ -2,7 +2,7 @@
 
 A sleek and fully functional calculator application built from the ground up with vanilla HTML, CSS, and JavaScript. This project demonstrates proficiency in front-end fundamentals, including DOM manipulation, event handling, and modern CSS layouts.
 
-![Calculator Demo]()
+![Calculator Demo](https://github.com/UJJYANTBAJPAI/jscalculator/blob/main/Screenshot%20(60).png)
 
 *(Pro-tip: Record a short GIF of you using the calculator, name it `demo.gif`, and add it to your project folder. It's more impressive than a static screenshot!)*
 
